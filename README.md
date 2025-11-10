@@ -1,6 +1,11 @@
 # Take Away-restaurangen
 
-[Resurs-repot]() (här kommer jag klistra in lektionskod, filmer och andra resurser ni kommer kunna ha nytta av de kommande veckorna)
+## Länkar
+
+* [User Stories](https://github.com/users/Santosnr6/projects/21)
+* [Tidsbokningar]() (kommer nästa vecka)
+* [Examinationsresurser]() (här kommer jag klistra in lektionskod, filmer och andra resurser ni kommer kunna ha nytta av de kommande veckorna)
+* [Intro till gruppexamination]()
 
 ## Inledning
 
@@ -95,13 +100,6 @@ För att jag skall kunna ha koll på vem som kodat vad, samt hur mycket var och 
 
 ![screenshot comment](./bild.png)
 
-## Länkar
-
-* [User Stories](https://github.com/users/Santosnr6/projects/21)
-* [Tidsbokningar]()
-* [Examinationsresurser]()
-* [Inspelning Intro till gruppexamination]()
-
 ## Inlämning, slutredovisning och bedömning
 
 Deadline för ert projektarbete är innan er Sprint Review **fredagen den 12/12**. Därefter har ni tills **kl 23.59 den 19/12** på er att slutföra er rapport och lämna in den som en länk på Azomo. I er rapport vill jag ha länkar till era Github-repon, ert projekt, samt ert Figma-projekt (se också för guds skull till att jag har tillgång till allt detta, jag kommer inte jaga er under jul och nyår och kommer jag inte in så kan det inte bli godkänt). I er rapport vill jag även se hur ni har arbetat på under projektets gång. Jag vill veta vad ni gjort under vilka veckor, hur har ni prioriterat, och varför har ni prioriterat som ni har gjort. Jag vill även se tydligt alla steg i er process.
@@ -125,4 +123,4 @@ Lycka till!
 
 ## Inlämning 19/12
 
-Senast kl 23:59 den 13/12 laddar ni upp länken till er rapport på Azomo. Läs avsnittet **Inlämning, slutredovisning och bedömning** ovan noggrant för att se vad den skall innehålla.
+Senast kl 23:59 den 19/12 laddar ni upp länken till er rapport på Azomo. Läs avsnittet **Inlämning, slutredovisning och bedömning** ovan noggrant för att se vad den skall innehålla.
