@@ -3,8 +3,8 @@
 ## Länkar
 
 * [User Stories](https://github.com/users/Santosnr6/projects/21)
-* [Tidsbokningar]() (kommer nästa vecka)
-* [Examinationsresurser]() (här kommer jag klistra in lektionskod, filmer och andra resurser ni kommer kunna ha nytta av de kommande veckorna)
+* [Tidsbokningar](https://docs.google.com/spreadsheets/d/1E0R8hO6KOydRr7Hrp391vpUyA1T0rHuQR6SO8B8WHQg/edit?usp=sharing)
+* [Examinationsresurser](https://github.com/fu-fullstack-fe24/exam-group-project-resources/tree/main) (här kommer jag klistra in lektionskod, filmer och andra resurser ni kommer kunna ha nytta av de kommande veckorna)
 * [Intro till gruppexamination]()
 
 ## Inledning
