@@ -39,6 +39,14 @@ Restaurangens anställda skall kunna använda webbsidan för att:
 Ni har alltså två olika sorters användare: **kunder** och **anställda**. Kom ihåg att dessa två användargrupper har olika behov! Ni hittar User Stories för projektet längre upp under rubriken **Länkar**. Antingen behåller ni dessa som de är, eller så bryter ni ner dem i mindre "tasks" för er Product Backlog.
 Tänk på att detta projekt kan användas för att söka LIA eller jobb i framtiden, så se till att lägga ner ett ordentligt arbete!
 
+## AI-assisterad utveckling - Nyhet!
+
+Under Sprint 3 skall var och en i teamet använda sig av **AI-assisterad utveckling** för att lösa en task vardera. Detta kan innebära att ni använder valfri bot (ChatGPT, Claude etc.) för att prompta fram en lösning, använda Copilot i VS Code, alt. testa någon annan AI-funktion som hjälper er att ta er vidare i arbetet. Poängen är inte att AI:n ska göra jobbet åt er, utan att ni ska utforska hur ett sådant verktyg kan stödja ert eget tänkande när ni kör fast. Se det som ett sätt att bredda er verktygslåda — och kanske upptäcka något nytt som gör kodandet lite smidigare. 
+
+Tänk på att det fortfarande är ni som är ansvariga för den kod ni lämnar in, och att all AI-genererad kod behöver granskas och testas.
+
+Ett ytterligare tillägg är [dessa reflektioner](https://docs.google.com/document/d/1AtozMkJ8Bznn2Rb77Ggo5VNanEisyA26RrLcokVJnns/edit?usp=sharing) som var och en i teamet svarar på var för sig. Svaren läggs i er slutrapport.
+
 ## Innehåll
 
 Detta projekt kommer kombinera allt som ni har lärt er i utbildningen hittills:
