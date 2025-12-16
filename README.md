@@ -129,6 +129,48 @@ Mer info om upplägg kring detta kommer senare.
 
 Lycka till!
 
+## Inför Fredag 19/12
+
+[Presentationsschema](https://docs.google.com/spreadsheets/d/14W_dts-6thY8foT7BTjxxGVWDJshaMcKy8ImHMWEGFk/edit?usp=sharing)
+
+På fredag ses vi allihop på Karlstads Universitet kl 9:00 (jag meddelar sal på Discord). 
+Detta är **obligatoriskt** (inget distansande om jag inte godkänt detta)! Försök gärna komma i god tid så att vi kan lösa intrenetinloggningar osv innan vi startar kl 9. Se till så att den personen som skall använda sin dator till presentation har internet.
+Presentationen går till som så att grupperna går upp en och en och smäller av sin presentation på **engelska**. Därefter står man kvar längst fram i klassrummet och svarar på de frågor som ens opponeringsgrupp ställer.
+Se till att ha både er frontend- och er backendkod uppe så att ni snabbt kan leta reda på de ställen i koden som ni får frågor om. Totalt räknar vi med ca 25 minuter per grupp, inräknat både presentation (15 min) och opponering (10 min).
+
+### Presentation
+
+Förbered er på att prata i mellan 10-15 minuter om ert projekt. Förutom en obligatorisk demonstration så kan ni även prata om exempelvis:
+
+* Ert samarbete / hur ni strukturerat upp allt
+* Vad som varit lätt / svårt
+* Vad ni lärt er
+* Vad ni fått ändra på längs vägen
+* "Den här kodsnutten är jag extra nöjd med..."
+* "Detta hade vi velat göra annorlunda..."
+* Hur ni använde AI i ert arbete
+* osv.
+
+Presentationen genomförs på **engelska**!
+
+### Opponering
+
+Förbered minst 5 st diskussionsfrågor som er tilldelade grupp inte enbart kan svara "ja" eller "nej" på. Dessa frågor skall vara öppna och leda till att er tilldelade grupp tvingas resonera kring olika delar i sin applikation. Tänk på att opponeringen inte handlar om att ni skall kritisera någons arbete och lyfta en massa negativa aspekter, utan snarare om arr ni skall få igång en diskussion.
+
+Exempel på frågos skulle kunna vara:
+
+* Mellan rad X och Y i filen xxx.tsx har ni en funktion. Skulle ni kunna förklara vad den funktionen gör?
+* Såvitt jag kan se så krypterar inte ni era lösenord innan de skickas till databasen. Stämmer det och hur gick tankegångarna där?
+* I xxx.js så ser jag att ni gjort på det här sättet. Hade det inte varit bättre / smartare att göra såhär istället? Varför valde ni just ert tillvägagångssätt?
+* Jag ser att ni har en context-mapp. Vad gör filerna som ligger i den?
+* Vad fan är websocket för något?
+* osv.
+
+Ställer ni konkreta frågor om vad ett stycke kod gör så behöver ni berätta vilken fil och vilka rader ni frågar om.
+Opponeringen skall pågå i 10 minuter så se till att komma väl förberedda med tillräckligt antal frågor.
+
+Opponeringen genomförs på **svenska**!
+
 ## Inlämning 19/12
 
 Senast kl 23:59 den 19/12 laddar ni upp länken till er rapport på Azomo. Läs avsnittet **Inlämning, slutredovisning och bedömning** ovan noggrant för att se vad den skall innehålla.
